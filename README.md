@@ -1,5 +1,5 @@
 # Reinforcement-Learning
-The repository for my reinforcement learning codes
+The repository for some of my reinforcement learning codes
 
 # Multi-Armed Bandits
 ## Problem1
@@ -29,3 +29,6 @@ Using the optimal policy obtained in problem2, evaluate that with Monte-Carlo me
 Determine the optimal action value using off-policy Monte-Carlo with importance sampling:
 
 ![4](https://user-images.githubusercontent.com/79801992/183278133-3d0cf995-cf4a-40c6-b451-a60545ed732e.png)
+
+# Mountain Car
+mountain car of openai gym using semi-gradient Sarsa with tiling
